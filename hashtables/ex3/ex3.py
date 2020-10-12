@@ -6,8 +6,9 @@ def intersection(arrays):
     """
     #iterate through each arr of matrix
     for i in range(len(arrays)-1):
+        #iterate through each element in arr
         for j in arrays[i]:
-
+            
 
     # return result
 
