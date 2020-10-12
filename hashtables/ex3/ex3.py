@@ -1,10 +1,16 @@
+d = {}
+
 def intersection(arrays):
     """
     YOUR CODE HERE
     """
-    # Your code here
+    #iterate through each arr of matrix
+    for i in range(len(arrays)-1):
+        #iterate through each element in arr
+        for j in arrays[i]:
+            
 
-    return result
+    # return result
 
 
 if __name__ == "__main__":
